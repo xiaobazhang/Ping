@@ -7,6 +7,8 @@
 #include <signal.h>
 #include <sys/time.h>
 #include <arpa/inet.h>
+#include <stdio.h>
+#include <errno.h>
 
 
 #define BUF_SIZE 4096
