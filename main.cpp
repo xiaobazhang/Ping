@@ -9,6 +9,8 @@
 #include <arpa/inet.h>
 #include <stdio.h>
 #include <errno.h>
+#include <string.h>
+#include <stdlib.h>
 
 
 #define BUF_SIZE 4096
